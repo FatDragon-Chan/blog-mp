@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29522996",
+      "name": "home-3-fill",
+      "font_class": "home-3-fill",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "29523003",
+      "name": "home-3-line",
+      "font_class": "home-3-line",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "29523391",
+      "name": "collage-fill",
+      "font_class": "collage-fill",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "29523423",
+      "name": "collage-line",
+      "font_class": "collage-line",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "29525143",
+      "name": "user-line",
+      "font_class": "user-line",
+      "unicode": "e912",
+      "unicode_decimal": 59666
+    },
+    {
+      "icon_id": "29525174",
+      "name": "user-fill",
+      "font_class": "user-fill",
+      "unicode": "e91c",
+      "unicode_decimal": 59676
+    }
+  ]
+}
